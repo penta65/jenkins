@@ -1,3 +1,5 @@
+Copy the following Declarative Pipeline code and paste it into your empty Jenkinsfile:
+
 pipeline {
     agent {
         docker {
